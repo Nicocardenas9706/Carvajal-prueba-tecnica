@@ -1,7 +1,6 @@
 Primero que todo se procedera a descargar Node.js e instalar todas sus dependencias.
-Luego ingresaremos a la carpeta "Carvajal prueba tecnica" (que se ubica en este repositorio de GitHub
-Procederemos a descargar el archivo "Carvajal prueba tecnica.rar"
-Luego se debera extraer el archivo "Carvajal prueba tecnica.rar"
+Luego ingresaremos a la carpeta "Carvajal prueba tecnica" (que se ubica en este repositorio de GitHub)
+Descargaremos cada archivo "API-NODEJS-MYSQL.zip" y "crudtest.zip"
 Quedara una carpeta con dos subcarpetas "API-NODEJS-MYSQL" y "crudtest". 
 
 
